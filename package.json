@@ -1,8 +1,8 @@
 {
-	"name": "lydianadine.github.io",
+	"name": "iamlydianadine.github.io",
 	"version": "1.0.0",
 	"author": "Lydia Nadine",
-	"repository": "lydianadine.github.io",
+	"repository": "https://github.com/iamlydianadine/iamlydianadine.github.io.git",
 	"license": "MIT",
 	"type": "module",
 	"private": true,
